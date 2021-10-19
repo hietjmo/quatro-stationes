@@ -1,11 +1,12 @@
 # quatro-stationes
+
 Calculate days to closest equinox and solstice
 
 Output:
 ```
 # date
-pe 19.2.2021 21.16.11 +0200
-# python quatro-stationes.py 
-WS + 60 d 11 h 14 min
-VE − 29 d 11 h 39 min
+ti 19.10.2021 20.11.24 +0200
+bash solstices # python quatro-stationes.py
+AE + 26 d 22 h 50 min
+WS − 62 d 21 h 47 min
 ```
